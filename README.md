@@ -31,7 +31,7 @@
 - **Sistema operacional suportado:** Windows 10 ou superior (futuramente suporte para outros sistemas).
 
 ### Passos de instalação
-1. Faça o download do executável no repositório ou compile o projeto localmente.
+1. Faça o [download](https://sourceforge.net/projects/autopyx-windows/files/latest/download) do executável no repositório ou compile o projeto localmente.
 2. Execute o instalador ou descompacte os arquivos.
 3. Certifique-se de que o Python está corretamente configurado no sistema:
    - Adicione o Python ao `PATH`.
