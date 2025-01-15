@@ -56,3 +56,7 @@ Após instalar, abra o AutoPyx e comece a desenvolver seus projetos Python. 🔥
 - **LinkedIn:** [Perfil no LinkedIn](https://www.linkedin.com/in/oandersonbsilva/)  
 - **E-mail:** [andersoncomercial@pm.me](mailto:andersoncomercial@pm.me)
 - **Site:** [oander.site](https://oander.site/)
+
+
+## References
+<strong> QT Documentation </strong> https://doc.qt.io/qt.html#qtforpython
