@@ -46,7 +46,7 @@ Após instalar, abra o AutoPyx e comece a desenvolver seus projetos Python. 🔥
 
 ## 🛡️ Licença
 
-**Este projeto está licenciado sob a** GPL v3 License.
+**Este projeto está licenciado sob a** GPL v3.
 
 ---
 
