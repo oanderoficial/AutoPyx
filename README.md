@@ -16,6 +16,8 @@
 
 ---
 
+# Windows
+
 ## 🖥️ **Build V1.1**
 
 ![image](https://github.com/user-attachments/assets/58bf4049-b7ab-46ee-969a-819ccf9428de)
@@ -24,6 +26,13 @@
 
 
 ---
+
+# MacOS
+
+![image](https://github.com/user-attachments/assets/f3e70857-b267-493b-a061-7383937f95a4)
+<br>
+![image](https://github.com/user-attachments/assets/77f91f04-b5a6-44ea-acc1-b9ef36edada0)
+
 
 ## 🚀 **Instalação**
 
